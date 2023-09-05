@@ -1,0 +1,41 @@
+*{
+margin: 0%;
+padding: 0;
+}
+body{
+  background-image: url(https://th.bing.com/th?id=OIP.TbuAi2LlpS0KJhsnwO46IAHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
+  background-size: cover;  
+  background-repeat: no-repeat;
+}
+h1{
+    color: white;
+    font-size: 100px;
+    font-weight: 1000;
+    text-align :center;
+    margin-top: 30px;
+}
+
+div{
+    text-align: center;
+}
+button{
+    font-size: 20px;
+    background-color:rgb(248, 71, 71);
+    color: white;
+    font-weight:bolder;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+p{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+}
+#divv{
+    border-radius: 30px ;
+    
+    margin-top: 30px;
+    text-align: center;
+}
